@@ -1,0 +1,20 @@
+{
+  "name": "alexa-rutgers",
+  "version": "1.0.0",
+  "description": "Alexa App that does Rutgers things",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominusbelli/alexa-rutgers.git"
+  },
+  "author": "Carlin Au, Toni Au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominusbelli/alexa-rutgers/issues"
+  },
+  "homepage": "https://github.com/dominusbelli/alexa-rutgers#readme"
+}
