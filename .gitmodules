@@ -1,0 +1,3 @@
+[submodule "apps/alexa-rutgers-bus"]
+	path = apps/alexa-rutgers-bus
+	url = https://github.com/dominusbelli/alexa-rutgers-bus.git
