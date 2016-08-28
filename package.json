@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dominusbelli/alexa-rutgers/issues"
   },
-  "homepage": "https://github.com/dominusbelli/alexa-rutgers#readme"
+  "homepage": "https://github.com/dominusbelli/alexa-rutgers#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  }
 }
